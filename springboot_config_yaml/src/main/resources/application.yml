@@ -1,0 +1,17 @@
+server:
+  port: 9090
+  path: /config
+
+person:
+    lastName: 管成功
+    age: 18
+    boss: true
+    birth: 2018/12/12
+    #行内写法
+    maps: {job: coding,hobbies: 12}
+    lists:
+        - 成功
+        - success
+    dog:
+        name: 邦皮
+        age: 1
