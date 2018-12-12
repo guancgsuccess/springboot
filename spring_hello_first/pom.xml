@@ -24,7 +24,7 @@
     <!--添加Web应用程序的典型依赖项-->
     <dependencies>
         <dependency>
-            <groupId> org.springframework.boot </groupId>
+            <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
     </dependencies>
